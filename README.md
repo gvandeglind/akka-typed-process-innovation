@@ -22,3 +22,5 @@ USER gerard * * :Test
 NICK rubendg
 PRIVMSG gerard Hoi
 ```
+
+experiment with akka-typed-process, see https://github.com/rkuhn/akka-typed-session 
